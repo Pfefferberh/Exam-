@@ -1,0 +1,5 @@
+<ul>
+	<li>
+Sergey love coockies
+	</li>
+</ul>
